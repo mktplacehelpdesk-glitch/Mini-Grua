@@ -1,0 +1,36 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Variaveis de ambiente e arquivos locais
+.env
+.env.*
+!.env.example
+
+# Dependencias e builds, caso o projeto ganhe tooling no futuro
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+.vite/
+coverage/
+
+# Arquivos compactados gerados localmente
+*.zip
+*.rar
+*.7z
